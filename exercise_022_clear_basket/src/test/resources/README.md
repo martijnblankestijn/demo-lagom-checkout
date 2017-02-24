@@ -1,6 +1,6 @@
-exercise_022_basket_entity
+exercise_022_clear_basket_entity
 
-## Exercise 020 > Basket Entity
+## Exercise 022 > Clear Basket Entity
 
 Next up we'll add a route to clear the basket
 

@@ -1,6 +1,6 @@
-exercise_021_basket_entity
+exercise_021_get_basket_price
 
-## Exercise 020 > Basket Entity
+## Exercise 021 > Get Basket Price
 
 Now we're going to extend the service so that we can just get the price.
 
